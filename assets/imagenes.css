@@ -1,0 +1,218 @@
+/* Smartphones (portrait & landscape) */
+@media  (min-device-width : 200px) 
+and (max-device-width : 420px) {
+    .imgs1{
+        background: url('../assets/images/first-mobile-1920x1079.jpg') 
+        
+    } 
+}
+@media  (min-device-width : 200px) 
+and (max-device-width : 420px){
+    .imgs2{
+        background: url('../assets/images/cheating-mobile-3-793x480.jpg') 
+        
+    } 
+}
+
+@media  (min-device-width : 200px) 
+and (max-device-width : 420px) {
+    .imgs3{
+        background: url('../assets/images/investor-mobile-4-1024x650.jpg') 
+       
+    } 
+}
+
+@media (min-device-width : 200px) 
+and (max-device-width : 420px){
+    .imgs4{
+        background: url('../assets/images/1-852xmobile-480.jpg') 
+        
+    } 
+}
+
+
+@media  (min-device-width : 421px) 
+and (max-device-width : 600px) {
+    .imgs1{
+        background: url('../assets/images/first-mobile-1920x1079.jpg') 
+        
+    } 
+
+}
+/* iPads (landscape) */
+@media  (min-device-width : 421px) 
+and (max-device-width : 600px)  
+{
+    .imgs2{
+        background: url('../assets/images/cheating-mobile-3-793x480.jpg') 
+       
+    } 
+}
+/* iPads (portrait) */
+@media  (min-device-width : 421px) 
+and (max-device-width : 600px) 
+ {
+     .imgs3{
+        background: url('../assets/images/investor-mobile-4-1024x650.jpg') 
+        
+    } 
+}
+@media (min-device-width : 421px) 
+and (max-device-width : 600px) 
+ {
+     .imgs4{
+        background: url('../assets/images/1-852xmobile-480.jpg') 
+       
+    } 
+}
+/* Ordenadores de sobremesa y portátiles */
+@media  (min-width : 601px) 
+and (max-width : 800px){
+   .imgs1{
+        background: url('../assets/images/first-mobile-1920x1079.jpg') 
+       
+    } 
+
+}
+@media (min-width : 601px) 
+and (max-width : 800px){
+.imgs2{
+        background: url('../assets/images/cheating-mobile-3-793x480.jpg') 
+        
+    } 
+@media  (min-width : 601px) 
+and (max-width : 800px){
+     .imgs3{
+        background: url('../assets/images/investor-mobile-4-1024x650.jpg') 
+        
+    } 
+@media  (min-width : 601px) 
+and (max-width : 800px){
+    .imgs4{
+        background: url('../assets/images/1-852xmobile-480.jpg') 
+        
+    } }}}
+    
+
+
+
+
+
+/* iPads (portrait & landscape) */
+@media  (min-width : 801px) 
+and (max-width : 1023px) {
+    .imgs1{
+        background: url('../assets/images/first-1-1920x1079.jpg') 
+       
+    } 
+
+}
+/* iPads (landscape) */
+@media  (min-width : 801px) 
+and (max-width : 1023px)  
+{
+    .imgs2{
+        background: url('../assets/images/cheating-3-793x480.jpeg') 
+       
+    } 
+}
+/* iPads (portrait) */
+@media (min-width : 801px) 
+and (max-width : 1023px)
+ {
+     .imgs3{
+        background: url('../assets/images/investor-4-1024x650.jpeg') 
+        
+    } 
+}
+@media  (min-width : 801px) 
+and (max-width : 1023px)
+ {
+     .imgs4{
+        background: url('../assets/images/1-852x480.jpg') 
+        
+    } 
+}
+/* Ordenadores de sobremesa y portátiles */
+@media  (min-width : 1024px) 
+and (max-width : 1824px){
+   .imgs1{
+        background: url('../assets/images/first-1-1920x1079.jpg') 
+       
+    } 
+
+}
+@media  (min-width : 1024px) 
+and (max-width : 1824px){
+.imgs2{
+        background: url('../assets/images/cheating-3-793x480.jpeg') 
+        
+    } 
+@media  (min-width : 1024px) 
+and (max-width : 1824px){
+     .imgs3{
+        background: url('../assets/images/investor-4-1024x650.jpeg') 
+        
+    } 
+@media  (min-width : 1024px) 
+and (max-width : 1824px){
+    .imgs4{
+        background: url('../assets/images/1-852x480.jpg') 
+        
+    } }}}
+    
+/* Pantallas grandes */
+/*@media only screen 
+and (min-width : 1824px) {
+     .imgs1{
+        background: url('../assets/images/first-1-1920x1079.jpg') 
+        no-repeat center center fixed;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    } 
+
+}
+.imgs2{
+        background: url('../assets/images/cheating-3-793x480.jpeg') 
+        no-repeat center center fixed;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    } 
+
+     .imgs3{
+        background: url('../assets/images/investor-4-1024x650.jpeg') 
+        no-repeat center center fixed;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    } 
+
+    .imgs4{
+        background: url('../assets/images/1-852x480.jpg') 
+        no-repeat center center fixed;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    } */
+/* iPhone 4 */
+/*@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+     img.imgs{
+       width: auto;
+    } 
+}*/
